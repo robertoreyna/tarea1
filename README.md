@@ -1,3 +1,3 @@
 # tarea1
-ejemplo tarea 1
+ejemplo 
 primer archivo
